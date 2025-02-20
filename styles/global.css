@@ -1,6 +1,8 @@
+html,
 body {
   background-color: #121212;
   color: #f9f9f9;
+  font-family: var(--font-noto-sans-kr), sans-serif;
 }
 
 a {
